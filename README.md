@@ -1,1 +1,2 @@
 # entrega-final-javaScript
+Agregue un evento DOMContentLoaded para cargar automáticamente los datos al iniciar la aplicación. El método fetch se utiliza para obtener los datos desde un archivo JSON (estudiantes.json en este caso). Después de cargar los datos, se actualiza el localStorage y se muestra la tabla. Tambien agregué las clases de Bootstrap a los elementos HTML para mejorar su apariencia e incluí los enlaces a los archivos CSS y JS de Bootstrap desde su CDN.
